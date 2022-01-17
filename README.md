@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7thengineer
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data analytics
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on programs developing recommendation and insight systems
 - 📫 How to reach me ezenniac@gmail.com
 
